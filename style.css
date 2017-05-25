@@ -1,0 +1,25 @@
+#container_outer{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background-color: green;
+  border: 2px solid black;
+}
+
+.inner1{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 0px;
+  right: 0px;
+  background-color: blue;
+}
+
+.inner2{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  bottom: 0px;
+  left: 0px;
+  background-color: red;
+}
