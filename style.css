@@ -1,8 +1,8 @@
 #container_outer{
   position: relative;
-  width: 400px;
-  height: 400px;
-  background-color: green;
+  left: 30%;    
+  width:  600px;
+  height: 600px;
   border: 2px solid black;
 }
 
@@ -11,15 +11,116 @@
   width: 200px;
   height: 200px;
   top: 0px;
-  right: 0px;
-  background-color: blue;
+  left: 0px;
+  background-color: red;
 }
 
 .inner2{
   position: absolute;
   width: 200px;
   height: 200px;
-  bottom: 0px;
-  left: 0px;
-  background-color: red;
+  top: 0px;
+  left: 200px;
+  background-color: blue;
 }
+.inner3{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 0px;
+  left: 400px;
+  background-color: green;
+}
+.inner4{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 200px;
+  left: 0px;
+  background-color: yellow;
+}
+.inner5{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 200px;
+  left: 200px;
+  background-color: black;
+}
+.inner6{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 200px;
+  left: 400px;
+  background-color: orange;
+}
+.inner7{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 400px;
+  left: 0px;
+  background-color: purple;
+}
+.inner8{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 400px;
+  left: 200px;
+  background-color: gray;
+}
+.inner9{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  top: 400px;
+  left: 400px;
+  background-color: pink;
+}
+#kolo1{
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+    background-color: pink;
+   
+ 
+}
+#kolo2{
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+    background-color: gray;
+}
+#kolo3{
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+    background-color: purple;
+}
+#kolo4{
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+    background-color: green;
+}
+#kolo5{
+    width: 100px;
+    height: 100px;
+    margin: 50px auto;
+    background-color: red;
+}
+#kolo6{
+    
+}
+#kolo7{
+    
+}
+#kolo8{
+    
+}
+#kolo9{
+    
+}
+
